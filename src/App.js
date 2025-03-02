@@ -15,7 +15,7 @@ import imgpath from "./utilities/Images/home.png"
 function App() {
   return (
     <>
-    
+    <h1>hi</h1>
     <LoginProvider>
       <Routes>
       <Route path='/' element={<Login/>}/>
